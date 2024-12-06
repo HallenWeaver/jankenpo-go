@@ -1,2 +1,2 @@
 # jankenpo-go
-A simple jankenpo (rock paper scissors) game API implementation in golang
+Uma implementação em API do famoso jogo "Pedra, Papel e Tesoura" e sua variante "Pedra, Papel, Tesoura, Lagarto e Spock"
